@@ -23,3 +23,4 @@ conduct-wg@python.org instead.
 
 [Python Packaging Authority]: https://github.com/pypa/
 [PSF Code of Conduct]: https://policies.python.org/python.org/code-of-conduct/
+https://github.com/pypa/.github.git
